@@ -1,1 +1,1 @@
-what uup hoje:
+This is a text used to practice sharing repo's during a git class
