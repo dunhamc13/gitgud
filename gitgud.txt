@@ -1,1 +1,1 @@
-hey whatever
+text to demonstrate conflicts merging
